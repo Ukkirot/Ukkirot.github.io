@@ -6,7 +6,7 @@ pod adresem [ukkirot.github.io](https://ukkirot.github.io).
 
 ## Projekty na stronie
 
-- **NEOFORGE-ARCHITECT** — Modelfile dla Ollamy (Gemma) wyspecjalizowany w
+- **[NEOFORGE-ARCHITECT](https://github.com/Ukkirot/neoforge-expert)** — Modelfile dla Ollamy (Gemma) wyspecjalizowany w
   pisaniu modów NeoForge 1.21.1, z zasadą zera halucynacji API i osobnym
   plikiem few-shot.
 - **[owofier](https://github.com/Ukkirot/owofier)** — bot na Discorda
