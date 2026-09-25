@@ -1,31 +1,27 @@
 # Ukkirot.github.io
-site with projects i do in free time
 
-# TEMPLATE
+Strona-portfolio z projektami, które robię w wolnym czasie: mody do
+Minecrafta, narzędzia wokół nich i małe gry. Publikowana przez GitHub Pages
+pod adresem [ukkirot.github.io](https://ukkirot.github.io).
 
-# Nazwa projektu
+## Projekty na stronie
 
-Krótki opis projektu i jego celu.
+- **NEOFORGE-ARCHITECT** — Modelfile dla Ollamy (Gemma) wyspecjalizowany w
+  pisaniu modów NeoForge 1.21.1, z zasadą zera halucynacji API i osobnym
+  plikiem few-shot.
+- **[owofier](https://github.com/Ukkirot/owofier)** — bot na Discorda
+  przepisujący wiadomości na „uwu-mowę” przez webhooki.
 
-## Demo
+W trakcie: mod **Ryżoludzie** (NeoForge, sterowanie frakcją przez zewnętrzny
+panel RTS), lokalna strona do gry w *Vampire: the Masquerade* oraz własne
+MMO o wampirach (na etapie projektowania w Miro).
 
-[Zobacz działającą wersję](https://...)
+## Struktura
 
-## Technologie
+Zwykła statyczna strona — jeden plik `index.html`, bez buildu i zależności.
+Zmiany widać na żywo po pushu na branch `main`.
 
-- React
-- TypeScript
-- Node.js
-- PostgreSQL
+## Rozwój
 
-## Najciekawsze elementy
-
-- logowanie użytkowników,
-- integracja z zewnętrznym API,
-- responsywny interfejs.
-
-## Uruchomienie lokalne
-
-```bash
-npm install
-npm run dev
+Nowe projekty dopisywane są jako kolejne wpisy w `index.html`, w tej samej
+stylistyce co obecne.
